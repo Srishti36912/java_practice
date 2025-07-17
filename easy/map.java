@@ -1,7 +1,6 @@
 package easy;
 
 import java.util.*;
-import java.io.*;
 
 class map{
 	public static void main(String []argh)
